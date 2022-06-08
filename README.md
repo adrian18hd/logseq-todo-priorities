@@ -1,6 +1,8 @@
 # Logseq TODO Priority
 An extremely simple plugin for creating or updating TODOs with associated Priority.
+
 It adds a few slash commands: /TODO P1, P2 and P3 and it will create a TODO with the [#A, B or C] priority.
+
 If the current block already has a TODO, DOING, NOW, LATER or DONE markers, it will just set or update the priority.
 
 ## Installation
