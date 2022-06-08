@@ -1,0 +1,22 @@
+{
+  "name": "logseq-todo-priorities",
+  "author": "Adrian Stanescu",
+  "version": "0.0.1",
+  "description": "Shortcuts for creating TODOs with associated priority",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build --public-url . --no-source-maps index.html"
+  },
+  "devDependencies": {
+    "@logseq/libs": "^0.0.6",
+    "parcel": "^2.0.0"
+  },
+  "logseq": {
+    "id": "logseq-todo-priorities",
+    "main": "dist/index.html",
+    "icon": "./icon.png"
+  },
+  "dependencies": {
+    
+  }
+}
